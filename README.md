@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gauri! 👋</h1>  
-<h3 align="center">🚀 Engineering Student | Cybersecurity Enthusiast | AI Enthusiast</h3>  
+<h3 align="center">Aspiring Software Engineer | Java • MERN • Cloud • Security</h3>  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-blue?style=for-the-badge" />
@@ -17,45 +17,69 @@
 
 ---
 
-## 📂 **Projects**  
-🚀 **[MOOD MAP]([https://github.com/Gauri-2044/mood-map](https://github.com/Amisha-1580/Mental_Health_Web_App))** - A mental health grading and improvement platform  
-📈 **[Startup Profit Predictor](https://github.com/yourusername/profit-predictor)** - ML-based startup profit prediction  
-🌐 **[Personal Portfolio](https://yourwebsite.com)** - My online portfolio  
+## 🛠️ Technical Skills
+
+### Languages
+- Java
+- JavaScript
+- Python
+- SQL
+
+### Web Development
+- React.js
+- Node.js
+- Express.js
+- HTML
+- CSS
+
+### Cloud & Security
+- AWS
+- IAM
+- Docker
+- Network Security
+
+### Databases & Tools
+- MongoDB
+- PostgreSQL
+- Git
+- GitHub
+- REST APIs
+
+--- 
+
+## 🌱 Current Focus
+
+- Java & DSA
+- Backend Development
+- Cloud Security
+- Scalable Web Applications
 
 ---
 
-## 🛠️ **Skills & Tools**  
-### 👨‍💻 **Programming & Development**  
-![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)  
-![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)  
-![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter)  
+## 🚀 Featured Projects
 
-### 🔍 **Cybersecurity & Networking**  
-![Nmap](https://img.shields.io/badge/-Nmap-blue?style=flat&logo=nmap)  
-![Networking](https://img.shields.io/badge/-Networking-orange?style=flat&logo=cisco)  
-![Ethical Hacking](https://img.shields.io/badge/-Ethical_Hacking-red?style=flat&logo=hackthebox)  
+### 🔐 AWS IAM Security Enforcement System
+Cloud-native IAM security automation system using AWS services to enforce MFA, monitor activities, and detect over-permissive policies.
 
----
+### 💊 Medical Pharmacy AI Assistant
+AI-powered assistant for medicine guidance, order processing, and workflow automation using React, Node.js, and PostgreSQL.
 
-## 📊 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gauri-2044&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauri-2044&layout=compact&theme=radical)  
+### 🧠 MOODMATE – Mental Health Support Chatbot
+NLP-based chatbot focused on sentiment analysis and supportive wellness interactions.
 
 ---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gauri-2044&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauri-2044&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 📫 **Connect with Me**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/gauri-b-1bbb21290)  
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/gauri-bhasme)   
 
-💡 **Fun Fact:** I believe **education needs a modern upgrade** and I’m working towards it! 😃  
-
----
-
-### 🎯 **Next Steps**  
-- 🔥 Deploy **MOOD MAP** with more features  
-- 🚀 Build a **hacking practice lab** for learning  
-- 💡 Improve my **Flutter & React** skills  
-
----
+⭐ Always curious to learn, build, and improve through practical projects.
 
 
