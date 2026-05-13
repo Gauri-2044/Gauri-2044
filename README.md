@@ -69,12 +69,12 @@ NLP-based chatbot focused on sentiment analysis and supportive wellness interact
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gauri-2044&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauri-2044&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Gauri-2044&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180em"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauri-2044&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180em"/>
 </p>
 
 ## 📫 **Connect with Me**  
