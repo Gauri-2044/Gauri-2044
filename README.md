@@ -17,58 +17,6 @@
 
 ---
 
-## 🛠️ Technical Skills
-
-### Languages
-- Java
-- JavaScript
-- Python
-- SQL
-
-### Web Development
-- React.js
-- Node.js
-- Express.js
-- HTML
-- CSS
-
-### Cloud & Security
-- AWS
-- IAM
-- Docker
-- Network Security
-
-### Databases & Tools
-- MongoDB
-- PostgreSQL
-- Git
-- GitHub
-- REST APIs
-
---- 
-
-## 🌱 Current Focus
-
-- Java & DSA
-- Backend Development
-- Cloud Security
-- Scalable Web Applications
-
----
-
-## 🚀 Featured Projects
-
-### 🔐 AWS IAM Security Enforcement System
-Cloud-native IAM security automation system using AWS services to enforce MFA, monitor activities, and detect over-permissive policies.
-
-### 💊 Medical Pharmacy AI Assistant
-AI-powered assistant for medicine guidance, order processing, and workflow automation using React, Node.js, and PostgreSQL.
-
-### 🧠 MOODMATE – Mental Health Support Chatbot
-NLP-based chatbot focused on sentiment analysis and supportive wellness interactions.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
