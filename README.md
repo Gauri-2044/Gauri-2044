@@ -1,12 +1,6 @@
 <h1 align="center">Hi, I'm Gauri! 👋</h1>  
 <h3 align="center">Aspiring Software Engineer | Java • MERN • Cloud • Security</h3>  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Passion-EdTech-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Currently_Learning-Flutter-yellow?style=for-the-badge" />
-</p>  
-
 ---
 
 ## 🌍 **About Me**  
